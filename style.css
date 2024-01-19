@@ -1,0 +1,26 @@
+*
+{
+    margin:0px;
+
+}
+h2{
+    color:blue;
+}
+.main
+{
+    /* border:10px groove green; */
+    /* border:10px dashed green; */
+    /* border:10px inset green;
+    border:10px outset green;
+    border:10px double green; */
+    border:10px solid green;
+    /* padding:10px 15px 5px 7px ; */
+    padding-left: 20px;
+    padding-top: 30px;
+    width:45%;
+    margin:auto;
+    margin-top: 200px;
+    outline:3px solid purple;
+    display: flex;
+    
+}

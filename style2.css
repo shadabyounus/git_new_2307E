@@ -1,0 +1,24 @@
+/*vertical cross axis horizontal main acess*/
+.container
+{
+    border:2px solid green;
+    min-height: 200px;
+    display: flex;
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column-reverse;
+  */
+  flex-wrap: wrap;
+
+  /* gap: 30px; */
+  /* justify-content: space-around; */
+  /* justify-content: center; */
+  /* justify-content: end; */
+  justify-content: space-between;
+    
+}
+.div
+{
+    border: 2px solid blue;
+    /* margin: 12px 3px; */
+    width:80px;
+}
